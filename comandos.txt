@@ -1,0 +1,1 @@
+mkdir, touch, git init, git add ., git commit -m , echo -e, git push origin, git checkout, git branch 
